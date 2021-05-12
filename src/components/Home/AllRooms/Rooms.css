@@ -1,0 +1,13 @@
+
+.room-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .carousel__item{
+      margin-right: 20px;
+      
+  }
+  .carouselItem__body{
+      padding: 10px;
+  }
